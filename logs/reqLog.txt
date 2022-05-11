@@ -2085,3 +2085,13 @@
 20220510	22:25:11 	 85453de2-2ba0-4510-a0aa-8d35c8738f64 	 GET 	 undefined 	 /states/co/funfact
 20220510	22:25:18 	 4ecf6e83-efc3-41f6-af40-f509d64e0f61 	 GET 	 undefined 	 /states/co/funfact
 20220510	22:25:19 	 24fbb3f2-02ec-4e0c-a24f-078292d378bb 	 GET 	 undefined 	 /states/co/funfact
+20220511	13:43:57 	 42d97a64-f1cd-4663-9855-5e2d4a4bcd70 	 GET 	 undefined 	 /
+20220511	13:43:57 	 01d352cc-b400-4a37-85d5-ce5cfebd45eb 	 GET 	 undefined 	 /css/style.css
+20220511	13:43:57 	 49a3a11e-dbb1-4b83-aa8e-cec7d2a6a837 	 GET 	 undefined 	 /js/script.js
+20220511	13:43:58 	 2e1d05ae-6e7d-44c8-8ad4-663b2aa0d932 	 GET 	 undefined 	 /favicon.ico
+20220511	13:44:01 	 a0718f91-b7a8-4b39-8f52-6590fa0175af 	 GET 	 undefined 	 /states/
+20220511	13:44:05 	 2392ec32-193e-48d1-b60d-359f48e5dd49 	 GET 	 undefined 	 /states/?contig=true
+20220511	13:44:07 	 6985f1c1-c9c1-461c-839b-959031f33727 	 GET 	 undefined 	 /states/ks
+20220511	13:44:10 	 57efd16d-fde6-4037-b81e-3b81bbafcba0 	 GET 	 undefined 	 /states/ks/funfact
+20220511	13:44:13 	 b1bda0fd-fb92-4a60-8fa6-78d541a3784a 	 GET 	 undefined 	 /states/ks/population
+20220511	13:44:15 	 678bea7c-c6d3-4fcf-83d5-6efe0abc8bd6 	 GET 	 undefined 	 /states/?contig=false
